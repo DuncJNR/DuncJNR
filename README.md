@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lePigeon007
-- 👀 I’m interested in learning about LINUX systems, software development and networking.
+- 👀 I’m interested in learning about LINUX systems, software development, embedded systems and networking.
 - 🌱 I’m currently learning Intermediate C & C++.
 - 💞️ I’m looking to collaborate on ... TBC.
 - 📫 How to reach me: Air Mail
